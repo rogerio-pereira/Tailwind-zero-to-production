@@ -1,0 +1,26 @@
+{
+  "name": "TailwindZeroProd",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=elgqxmdVms8&amp;list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0&amp;index=1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerio-pereira/Tailwind-zero-to-production.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogerio-pereira/Tailwind-zero-to-production/issues"
+  },
+  "homepage": "https://github.com/rogerio-pereira/Tailwind-zero-to-production#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.6",
+    "tailwindcss": "^2.0.3",
+    "vite": "^2.0.1"
+  }
+}
